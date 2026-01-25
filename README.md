@@ -1,50 +1,79 @@
-<h1>Hi there 👋</h1>
-<p>My name is Jackciel Felix and i'm a <strong>FRONTEND DEVELOPER</strong></p>
+<h1 align="center">👋 Olá, meu nome é Jackciel Felix</h1>
 
-## ⚡ About me
-<span>See my portfolio: <a href="https://jackcielf.netlify.app/" target="_self">Click Here</a></span>
+<h3 align="center">🚀 Frontend Developer | Angular Specialist</h3>
 
-## ⚡ Connect with me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/jackciel-felix-1b213a305/" title="LinkedIn" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jackciel felix" height="30" width="40" /></a>
-<a href="https://www.instagram.com/dev_jakki" title="Instagram" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jakki_fx" height="30" width="40" /></a>
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=dev-jakki&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-jakki&theme=github_dark&hide_border=true" />
 </p>
 
-## ⚡ Technologies
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-jakki&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
-These are some of the technologies and tools that I work with:
+---
 
-Backend: 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![PHP](https://img.shields.io/badge/-PHP-2C2235?style=flat-square&logo=php)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+## 🧠 Sobre mim
 
-Frontend:
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
-![React](https://img.shields.io/badge/-React-007ACC?style=flat-square&logo=react)
+- 💻 Sou trabalho com **Frontend Developer**
+- ⚡ Experiência sólida com **RxJS, NgRx e arquitetura baseada em componentes**
+- 🔗 Integração com **APIs REST**
+- 🔍 Participação em **Code Reviews** e boas práticas
+- 🚀 Experiência com **CI/CD, Azure DevOps e AWS**
+- 🐳 Conhecimento em **Docker**
+- 🗄️ Experiência com **Oracle Database e SQL**
+- 📚 Em constante busca de evolução...
 
-Database:
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgresSQL](https://img.shields.io/badge/-PostgreSQL-5db6ff?style=flat-square&logo=postgresql)
+🔗 **Portfólio:**  
+👉 https://dev-jakki.netlify.app/
 
-Cloud:
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
+---
 
-Tools:
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Figma](https://img.shields.io/badge/-Figma-8a2c10?style=flat-square&logo=figma&logoColor=white)
+## Contato
 
-IDEs:
-![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat-square&logo=apache-netbeans-ide&logoColor=white)
+<p align="left">
+  <a href="https://www.linkedin.com/in/jackciel-felix-1b213a305/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="28" />
+  </a>
+  <a href="https://www.instagram.com/dev_jakki" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="28" />
+  </a>
+</p>
+
+---
+
+## Tecnologias
+
+### Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex)
+![NgRx](https://img.shields.io/badge/NgRx-BA2BD2?style=for-the-badge&logo=ngrx)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
+![DevExtreme](https://img.shields.io/badge/DevExtreme-000000?style=for-the-badge)
+
+### Banco de Dados
+![Oracle](https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-5db6ff?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![CI/CD](https://img.shields.io/badge/CI/CD-0A0A0A?style=for-the-badge)
+
+### Ferramentas
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Figma](https://img.shields.io/badge/Figma-8a2c10?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+<p align="center">
+  — Obrigado pela visita —
+</p>
