@@ -8,9 +8,8 @@
 
 * 💻 Atualmente atuo como **Software Developer**
 * 🅰️ Experiência sólida em **Angular**, incluindo **RxJS, NgRx**, arquitetura baseada em **microfrontends**, **microserviços** e componentização
-* ☕ Atuação na manutenção e evolução de APIs com **Java (Spring Boot 3)**
+* 🛠️ Atuação na manutenção e evolução de APIs **Python e Java (Spring Boot 3)**
 * 🔗 Integração e consumo de **APIs RESTful**
-* 🛠️ Manutenção de **APIs Python e Java Spring Boot**
 * 🔍 Participação ativa em **Code Reviews**, seguindo boas práticas de desenvolvimento e qualidade de código
 * 🚀 Experiência com **CI/CD**, utilizando **Docker**, **Azure DevOps** e **AWS**
 * 🗄️ Conhecimento em bancos de dados **Oracle** e **MySQL**, com domínio de consultas SQL (CRUD, JOINs, FOR UPDATE, entre outros)
