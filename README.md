@@ -16,7 +16,7 @@
 * 📚 Em constante evolução, buscando aprimorar habilidades técnicas e acompanhar as melhores práticas do mercado
 
 🔗 **Portfólio:**  
-👉 https://dev-jakki.netlify.app/
+👉 https://dev-jakki.vercel.app/
 
 ---
 
